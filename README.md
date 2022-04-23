@@ -15,6 +15,19 @@ Unit | Min Per Tweet | Max Per Tweet | Mean Per Tweet | Total
 Word Tokens | 1 | 62 | 32 | 38,350
 Sentences | 1 | 8 | 2 | 2,850
 
+Class | # 
+------|--
+Argument | 844
+Claim | 784
+Evidence | 295
+Unverifiable Claim | 703
+Verifiable Claim | 244
+Reason | 132 
+External Evidence | 165 
+Internal Evidence | 11
+Sarcasm | 204 
+Toxic Language | 173
+
 ## Citation
 
 The accompanying paper was accepted to be published at LREC 2022.
