@@ -1,6 +1,6 @@
 # German Climate Change Tweet Corpus (GerCCT)
 
-This is the repo of the GerCCT Corpus, a tweet resource annotated for argument components, argument properties, sarcasm and toxic language. 
+This is the repo of the GerCCT Corpus, a German tweet resource annotated for argument components, argument properties, sarcasm and toxic language. 
 
 ## About
 
