@@ -19,11 +19,15 @@ Sentences | 1 | 8 | 2 | 2,850
 
 ### Class Distribution 
 
+#### Argument Components
+
 Class | Absolute # | Proportion 
 ------|------------|-----------
 Argument | 844 | 0.70
 Claim | 784 | 0.65 
 Evidence | 295 | 0.25
+
+#### Argument Properties
 
 Class | Absolute # | Proportion
 ------|------------|-----------
@@ -32,6 +36,8 @@ Verifiable Claim | 244 | 0.20
 Reason | 132 | 0.11
 External Evidence | 165 | 0.14 
 Internal Evidence | 11 | 0.01
+
+#### Sarcasm and Toxic Language
 
 Class | Absolute # | Proportion
 ------|------------|-----------
