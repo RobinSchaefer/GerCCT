@@ -4,7 +4,7 @@ This is the repo of the GerCCT Corpus, a tweet resource annotated for argument c
 
 ## About
 
-The corpus consists of 1,200 tweets and its annotations. Each tweet is associated with its respective source tweet, i.e. the tweet it replies to. Source tweets were used to provide annotators with additional context. The annotations refer to the reply tweet, i.e. NOT to the source tweet. For copyright reasons we cannot distribute the actual tweet content. Instead with share the source and reply tweet IDs and the annotations. 
+The corpus consists of 1,200 tweets and its annotations. Each tweet is associated with its respective source tweet, i.e. the tweet it replies to. Source tweets were used to provide annotators with additional context. The annotations refer to the reply tweet, i.e. NOT to the source tweet. For copyright reasons we cannot distribute the actual tweet content. Instead we share the source and reply tweet IDs and the annotations. 
 
 The current version includes class annotations on the document level, i.e. on the tweet level. We are working on creating the respective span annotations. 
 
