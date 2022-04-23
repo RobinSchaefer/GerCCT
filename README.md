@@ -44,10 +44,10 @@ Class | Absolute # | Proportion
 Sarcasm | 204 | 0.17
 Toxic Language | 173 | 0.14
 
-## Citation
-
-The accompanying paper was accepted to be published at LREC 2022.
-
 ## License
 
 CC-BY-SA-4.0
+
+## Citation
+
+The accompanying paper was accepted to be published at LREC 2022.
