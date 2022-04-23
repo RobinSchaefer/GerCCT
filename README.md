@@ -10,23 +10,27 @@ The current version includes class annotations on the document level, i.e. on th
 
 ## Basic Corpus Statistics
 
+### Corpus Size
+
 Unit | Min Per Tweet | Max Per Tweet | Mean Per Tweet | Total
 -----|---------------|---------------|----------------|------
 Word Tokens | 1 | 62 | 32 | 38,350
 Sentences | 1 | 8 | 2 | 2,850
 
-Class | # 
-------|--
-Argument | 844
-Claim | 784
-Evidence | 295
-Unverifiable Claim | 703
-Verifiable Claim | 244
-Reason | 132 
-External Evidence | 165 
-Internal Evidence | 11
-Sarcasm | 204 
-Toxic Language | 173
+### Class Distribution 
+
+Class | Absolute # | Proportion 
+------|------------|-----------
+Argument | 844 | 0.70
+Claim | 784 | 0.65 
+Evidence | 295 | 0.25
+Unverifiable Claim | 703 | 0.59
+Verifiable Claim | 244 | 0.20
+Reason | 132 | 0.11
+External Evidence | 165 | 0.14 
+Internal Evidence | 11 | 0.01
+Sarcasm | 204 | 0.17
+Toxic Language | 173 | 0.14
 
 ## Citation
 
